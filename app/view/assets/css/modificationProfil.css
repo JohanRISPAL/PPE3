@@ -1,0 +1,24 @@
+#modifProfil{
+	flex-direction: column;
+}
+
+.col.l4.offset-l1{
+	margin-bottom: 0;
+}
+
+.col.l4.offset-l2{
+	margin-bottom: 0;
+}
+
+#buttonConfirm{
+	display: flex;
+	justify-content: center;
+}
+
+#buttonConfirm button{
+	background-color: #123e6a;
+	border: none;
+	border-radius: 50px;
+	color: white;
+	padding: 5px;
+}

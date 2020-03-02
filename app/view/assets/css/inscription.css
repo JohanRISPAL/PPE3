@@ -1,0 +1,19 @@
+#inscriptions{
+	width: 100%;
+	margin-left: 33%;
+	margin-right: 33%;
+	margin-top: 2%;
+	border: 2px solid;
+	border-radius: 20px;
+	background-color: rgba(230, 230, 230, 0.8);
+}
+
+.buttonInscription{
+	text-align: center;
+}
+
+.buttonInscription input{
+	margin-top: 5%;
+	width: 50%;
+	height: 10vh;
+}

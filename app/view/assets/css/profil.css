@@ -1,0 +1,11 @@
+#profil.row{
+	justify-content: start;
+}
+
+.col.l4.s12{
+	margin: 0 !important;
+}
+
+.copyright{
+	bottom: 0;
+}

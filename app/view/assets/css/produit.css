@@ -1,0 +1,39 @@
+#product{
+	margin-top: 5%;
+}
+
+.containerDescription{
+	display: flex;
+	flex-direction: column;
+}
+
+.buttonProduct{
+	display: flex;
+	justify-content: center;
+}
+
+.buttonProduct button{
+	margin-right: 2%;
+	margin-left: 2%;
+	background: none;
+	border: none;
+}
+
+.buttonUnder.active{
+	border-bottom: medium solid #123e6a;
+	padding-bottom: 0.5%; 
+}
+
+.buttonUnder.nonactive{
+	padding-bottom: 1%;
+}
+
+.col.l6.offset-l4{
+	margin: 0 !important;
+}
+
+.col.l12.linked{
+	margin-left: 25vh !important;
+	margin-right: 25vh;
+	padding: 0;
+}

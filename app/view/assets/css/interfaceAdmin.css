@@ -1,0 +1,50 @@
+.navbarre{
+	display: flex;
+	justify-content: space-around;
+	width: 15%;
+}
+
+.link{
+	display: flex;
+	justify-content: center;
+}
+
+.link a{
+	font-weight: bold;
+	color: black;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.buttonOption{
+	display: flex;
+	justify-content: space-around;
+}
+
+.buttonOption button{
+	background-color: #123e6a;
+	border: none;
+	border-radius: 50px;
+	color: white;
+	padding: 5px;
+}
+
+#creation.buttonOption.buttonHover{
+	background-color: #416487 !important;
+}
+
+#statistique.buttonOption.buttonHover{
+	background-color: #416487 !important;
+}
+
+#manage.buttonOption.buttonHover{
+	background-color: #416487 !important;
+}
+
+#commande.buttonOption.buttonHover{
+	background-color: #416487 !important;
+}
+
+#clients.buttonOption.buttonHover{
+	background-color: #416487 !important;
+}
