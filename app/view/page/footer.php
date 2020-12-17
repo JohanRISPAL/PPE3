@@ -1,5 +1,5 @@
 	<div class="copyright">
-		<p>Copyright ElBijou</p>
+		<p>Copyright Johan RISPAL</p>
 	</div>
 </body>
 
